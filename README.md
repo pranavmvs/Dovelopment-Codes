@@ -1,2 +1,2 @@
 # HTML
-Basic HTML and CSS Learning Codes
+Basic HTML, CSS & JS Learning Codes
